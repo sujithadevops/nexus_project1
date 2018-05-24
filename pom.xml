@@ -21,7 +21,7 @@
 			<url>http://localhost:8081/nexus/content/repositories/release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
+			<id>snapshots</id>
 			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>		
   </distributionManagement>
